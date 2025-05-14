@@ -25,6 +25,8 @@ The repo is a little bit unorganized, but users can replicate my finding by runn
 `dataset.ipynb`: Run this to create the data \
 `Dataset.py`: Dataset classes for PyTorch integration 
 
+### You can read my report at `paper.pdf`.
+
 ## References
 Riesenhuber, M., & Poggio, T. (1999). Hierarchical models of object recognition in cortex. Nature Neuroscience, 
 2(11), 1019–1025. https://doi.org/10.1038/14819
