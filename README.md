@@ -1,4 +1,6 @@
-This is the repo for a class project with title "Is HMAX, a biologically plausible model, subject to the Müller–Lyer illusion?". 
+This is the repo for a project done at NEUR240, Biological and Artificial Intelligence, with title:
+
+# Is HMAX, a biologically plausible model, subject to the Müller–Lyer illusion?
 
 Here, I investigate whether a biologically inspired vision pipeline—combining the HMAX hierarchical 
 feature extractor (Riesenhuber & Poggio, 1999) with a linear support vector machine (Cortes & 
@@ -15,3 +17,15 @@ maximize misperception—while alterations of fin length or line separation have
 impact. These findings mirror human psychophysics and demonstrate that simple, feedforward 
 feature hierarchies can inherit core perceptual biases, offering a powerful framework for probing 
 the mechanistic origins of visual illusions in both artificial and biological systems. 
+
+# Logistics
+The repo is a little bit unorganized, but users can replicate my finding by running `official.ipynb`. Directories inside the code should be adjusted accordingly if running on your local computer. 
+
+`Dataset.py`: How the training and testing datasets are created. You can change configurations of the data accordingly. 
+`dataset_generation.ipynb`: Run this to create the data
+
+## References
+Riesenhuber, M., & Poggio, T. (1999). Hierarchical models of object recognition in cortex. Nature Neuroscience, 
+2(11), 1019–1025. https://doi.org/10.1038/14819
+Cortes, C., & Vapnik, V. (1995). Support-vector networks. Machine Learning, 20(3), 273–297. 
+https://doi.org/10.1007/BF00994018
