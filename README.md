@@ -1,4 +1,4 @@
-This is the repo for a project done at NEUR240, Biological and Artificial Intelligence, with title:
+This is the repo for a project done at NEUR240, Biological and Artificial Intelligence (Harvard, Spring 2025), with title:
 
 # Is HMAX, a biologically plausible model, subject to the Müller–Lyer illusion?
 
@@ -25,7 +25,7 @@ The repo is a little bit unorganized, but users can replicate my finding by runn
 `dataset.ipynb`: Run this to create the data \
 `Dataset.py`: Dataset classes for PyTorch integration 
 
-### You can read my report at `paper.pdf`.
+### You can read my report at `Paper.pdf`.
 
 ## References
 Riesenhuber, M., & Poggio, T. (1999). Hierarchical models of object recognition in cortex. Nature Neuroscience, 
