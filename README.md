@@ -21,8 +21,9 @@ the mechanistic origins of visual illusions in both artificial and biological sy
 # Logistics
 The repo is a little bit unorganized, but users can replicate my finding by running `official.ipynb`. Directories inside the code should be adjusted accordingly if running on your local computer. 
 
-`Dataset.py`: How the training and testing datasets are created. You can change configurations of the data accordingly. 
-`dataset_generation.ipynb`: Run this to create the data
+`data_generation.py`: How the training and testing datasets are created. You can change configurations of the data accordingly. \
+`dataset.ipynb`: Run this to create the data \
+`Dataset.py`: Dataset classes for PyTorch integration 
 
 ## References
 Riesenhuber, M., & Poggio, T. (1999). Hierarchical models of object recognition in cortex. Nature Neuroscience, 
