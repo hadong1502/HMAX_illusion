@@ -25,6 +25,8 @@ The repo is a little bit unorganized, but users can replicate my finding by runn
 `dataset.ipynb`: Run this to create the data \
 `Dataset.py`: Dataset classes for PyTorch integration 
 
+The implementation of HMAX was adapted from github.com/wmvanvliet/pytorch_hmax/. 
+
 ### You can read my report at `Paper.pdf`.
 
 ## References
